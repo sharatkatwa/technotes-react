@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Checkout technotes fullstack wesite here:
+https://technotes-6a78.onrender.com
 
 ## Available Scripts
 
